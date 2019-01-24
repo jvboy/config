@@ -1,6 +1,5 @@
 
 spring:
-  profifiles:
+  profiles:
     include:
-      -url
-      
+      - 
